@@ -1,14 +1,5 @@
-<!---
-- 👋 Hi, I’m @equinox-sun
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-equinox-sun/equinox-sun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-## Hi, 👋  I'm <a href="https://github.com/equinox-sun/" target="_blank">equinox (minchun Sun)</a>
+## Hi, 👋  I'm <a href="https://github.com/equinox-sun/" target="_blank">equinox (Minchun Sun)</a>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em></summary>
 
@@ -33,56 +24,6 @@ You can find how to contact me in the following paltform icon url. You can follo
     <img src="https://github-readme-stats.vercel.app/api?username=equinox-sun&hide=issues&title_color=333&text_color=777" alt="equinox's Stats" >
   </a>
 </p>
-
-<p align="center">
-  <a href= "https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" alt="WeChat" title="WeChat">
-    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="#" target="_blank" alt="CSDN" title="CSDN">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href="#" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="#" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href= "#" target="_blank" alt="Instagram" title="Instagram">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
-  </a>
-  &emsp;
-  <a href="#" target="_blank" alt="YouTube" title="YouTube">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href="#" target="_blank" alt="LinkedIn" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
-  </a>
-  &emsp;
-  <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
-  <a href="https://github.com/equinox-sun">
-    <img src="https://badges.pufler.dev/visits/equinox-sun/equinox-sun?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/equinox-sun">
-    <img src="https://badges.pufler.dev/years/equinox-sun?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/equinox-sun?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/equinox-sun?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/equinox-sun">
-    <img src="https://badges.pufler.dev/gists/equinox-sun?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/equinox-sun">
-    <img src="https://badges.pufler.dev/commits/monthly/equinox-sun?style=flat-square&color=black&logo=github">
-  </a>
-</p>
-
 -->
 <h2></h2>
 
@@ -91,14 +32,30 @@ You can find how to contact me in the following paltform icon url. You can follo
 <!-- stackoverflow profile
 <a href="#"><img align="right" alt="Profile of equinox-sun on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>-->
  
-**Languages and Frameworks**
+**Languages and Frameworks and Databases**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" title="JSON"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/183043709-bf66d400-014c-4332-861a-7edc5ae610b9.png" alt="Qt" title="Qt"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
+<p dir="auto">
+  <img src="https://badgen.net/badge/language/golang/blue">
+  <img src="https://badgen.net/badge/golang/gin/green">
+  <img src="https://badgen.net/badge/golang/go-zero/pink">
+  <img src="https://badgen.net/badge/golang/gotribe/cyan">
+ </p>
+ 
+<p dir="auto">
+  <img src="https://badgen.net/packagist/lang/monolog/monolog">
+  <img src="https://badgen.net/badge/Laravel/5.6/pink?icon=php">
+  <img src="https://badgen.net/badge/Thinkphp/5.0/green?icon=php">
+  <img src="https://badgen.net/badge/language/python/blue">
+ </p>
+ 
+<p dir="auto">
+  <img src="https://raster.shields.io/badge/SQL-Mysql-important.svg">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8525e7e6900fc4c5546b0442f8a2f187b802e9f40d431ac7394d2c1509234ad9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"><img alt="MongoDB" src="https://camo.githubusercontent.com/8525e7e6900fc4c5546b0442f8a2f187b802e9f40d431ac7394d2c1509234ad9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;"></a>
+  <img src="https://raster.shields.io/badge/Redis-6.0-blue.svg">
+  <img src="https://raster.shields.io/badge/Memcache--inactive.svg">
+</p>
 
+  
 **Tools and Environments**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
@@ -112,7 +69,19 @@ You can find how to contact me in the following paltform icon url. You can follo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
-<br>
+ 
+<p dir="auto">
+  <img src="https://badgen.net/badge/Elasticsearch/ /pink">
+  <img src="https://badgen.net/badge/RabbitMQ/ /green">
+  <img src="https://badgen.net/badge/Kafka/ /blue">
+  <img src="https://badgen.net/badge/icon/docker?icon=docker&label">
+  <img src="https://badgen.net/badge/docker/Api/green?icon=docker">
+  <img src="https://badgen.net/badge/github/Actions/yellow?icon=github">
+  <img src="https://badgen.net/badge/icon/chrome?icon=chrome&label">
+  <img src="https://badgen.net/badge/icon/git?icon=git&label">
+  <img src="https://badgen.net/badge/icon/gitlab?icon=gitlab&label">
+  
+</p>
 
 ---
 
