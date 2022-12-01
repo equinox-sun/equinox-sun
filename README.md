@@ -1,5 +1,5 @@
 
-## Hi, 👋  I'm <a href="https://github.com/equinox-sun/" target="_blank">equinox (Minchun Sun)</a>
+## Hi, 👋  I'm <a href="https://github.com/equinox-sun/" target="_blank">equinox</a>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em></summary>
 
