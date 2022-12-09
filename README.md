@@ -86,3 +86,5 @@ You can find how to contact me in the following paltform icon url. You can follo
 ---
 
 🚧 **My Todoist Stats: ⬇️**
+- [web complier](https://github.com/Go-Tribe/web_complier)
+- [leetcode](https://github.com/equinox-sun/leetcode)
