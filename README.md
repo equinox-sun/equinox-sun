@@ -8,7 +8,7 @@ You can find how to contact me in the following paltform icon url. You can follo
 
 - 🔭 I’m currently writing some amateur [open source projects](https://github.com/equinox-sun?tab=repositories), at [@equinox-sun](https://github.com/equinox-sun). A closed-loop online studying open-source repo is public at [<i><b>@docker-cli</b></i>](https://github.com/docker/cli) <a href="https://github.com/equinox-sun"><sup><i><b>Hot</b></i></sup></a>, and more interesting project can be found at [My GitHub repos](https://github.com/equinox-sun?tab=repositories).
 
-- 🌱 Some notebook can find in [here](https://github.com/equinox-sun/equinox-sunoptimize) and [yuque](https://www.yuque.com/u22071379/wklpiu).
+- 🌱 Some notebook can find in [here](https://github.com/equinox-sun/equinox-sunoptimize) and [语雀](https://www.yuque.com/u22071379/wklpiu).
 - 💬 Be free to ask me about anything [here](https://github.com/equinox-sun/equinox-sun/issues).
 
 ---
@@ -88,3 +88,4 @@ You can find how to contact me in the following paltform icon url. You can follo
 🚧 **My Todoist Stats: ⬇️**
 - [web complier](https://github.com/Go-Tribe/web_complier)
 - [leetcode](https://github.com/equinox-sun/leetcode)
+- [语雀](https://www.yuque.com/u22071379/wklpiu)
